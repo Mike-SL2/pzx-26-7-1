@@ -1,0 +1,1 @@
+replace package.json in node_modules\babel-preset-react-app with this new one
